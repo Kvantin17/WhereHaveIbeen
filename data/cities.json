@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "77cc",
+      "cityName": "Kurchatov",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-07-15T20:04:12.733Z",
+      "notes": "",
+      "position": {
+        "lat": "51.781435604431195",
+        "lng": "35.68359375000001"
+      }
+    },
+    {
+      "id": "1cfd",
+      "cityName": "Petropavlovka",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-07-15T20:04:12.733Z",
+      "notes": "",
+      "position": {
+        "lat": "50.12057809796008",
+        "lng": "40.78125000000001"
+      }
+    },
+    {
+      "id": "776c",
+      "cityName": "Petropavlovka",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-07-15T20:06:13.192Z",
+      "notes": "",
+      "position": {
+        "lat": "54.059387886623576",
+        "lng": "44.29687500000001"
+      }
+    }
+  ]
+}
